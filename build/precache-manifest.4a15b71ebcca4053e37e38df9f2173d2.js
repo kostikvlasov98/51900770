@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d2fed01c1e5dea80e022e18efc0eeab",
+    "revision": "1cb226f2ba6751ff0ee464e91f46c3b7",
     "url": "./index.html"
   },
   {
-    "revision": "2d207eeba9d9413445ae",
+    "revision": "4ab2b97615d6aa5c4def",
     "url": "./static/css/2.d4488d67.chunk.css"
   },
   {
-    "revision": "6c548bc6459b28be1af2",
-    "url": "./static/css/main.045f0e15.chunk.css"
+    "revision": "0cc42f239bc00362cd75",
+    "url": "./static/css/main.f1f8d85b.chunk.css"
   },
   {
-    "revision": "2d207eeba9d9413445ae",
-    "url": "./static/js/2.e9673ea4.chunk.js"
+    "revision": "4ab2b97615d6aa5c4def",
+    "url": "./static/js/2.685b8e06.chunk.js"
   },
   {
-    "revision": "6c548bc6459b28be1af2",
-    "url": "./static/js/main.1168a1bd.chunk.js"
+    "revision": "0cc42f239bc00362cd75",
+    "url": "./static/js/main.e9776fd7.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -212,103 +212,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "2e0596be67fb793e37069bc713ce3839",
-    "url": "./static/media/approval.2e0596be.svg"
+    "revision": "7763e98a5fdfc6f074577b23785e433d",
+    "url": "./static/media/bg.7763e98a.png"
   },
   {
-    "revision": "5d327ef6659c487263f9af8bb77441c2",
-    "url": "./static/media/bg.5d327ef6.png"
+    "revision": "8182911ac01def7a72bd695151b466e9",
+    "url": "./static/media/empty_doc.8182911a.png"
   },
   {
-    "revision": "747c0e9675a62d748a6427240fabd605",
-    "url": "./static/media/bg.747c0e96.png"
+    "revision": "beb2409954abb250bb0ed57d63a1bd14",
+    "url": "./static/media/modal_access_icon.beb24099.svg"
   },
   {
-    "revision": "16811fca7a61c88441f7833ae496f9a3",
-    "url": "./static/media/bg2.16811fca.png"
-  },
-  {
-    "revision": "5a294454ef14f9af172348936f577b09",
-    "url": "./static/media/bg2.5a294454.png"
-  },
-  {
-    "revision": "85f638aa7093651ab65b592cc8156176",
-    "url": "./static/media/camera.85f638aa.png"
-  },
-  {
-    "revision": "57f683bc1131a33d8a0585a459f17960",
-    "url": "./static/media/death.57f683bc.svg"
-  },
-  {
-    "revision": "2453b731d63576a6281366f41374873f",
-    "url": "./static/media/gear.2453b731.png"
-  },
-  {
-    "revision": "ae88680f7ec2d766063c9611e40cd3f2",
-    "url": "./static/media/group.ae88680f.jpg"
-  },
-  {
-    "revision": "b9e58a154331f42026e2c339c9e96f6e",
-    "url": "./static/media/ic_date_celebrity.b9e58a15.svg"
-  },
-  {
-    "revision": "92b0a139a47c4d22d6168606a4faf627",
-    "url": "./static/media/ic_door.92b0a139.svg"
-  },
-  {
-    "revision": "eb4cdd062fa52a74234636e62dad444f",
-    "url": "./static/media/ic_door2.eb4cdd06.svg"
-  },
-  {
-    "revision": "e1f83fe01958d8a7b23157391a667b13",
-    "url": "./static/media/ic_likes.e1f83fe0.svg"
-  },
-  {
-    "revision": "b390be996aaf9883edf9964b4325c2aa",
-    "url": "./static/media/ic_msg.b390be99.png"
-  },
-  {
-    "revision": "3f278b4b0b31972c4b6abd46cf81de20",
-    "url": "./static/media/ic_msg2.3f278b4b.png"
-  },
-  {
-    "revision": "d74e16deda7891a5e6401eb776b801f7",
-    "url": "./static/media/ic_time.d74e16de.png"
-  },
-  {
-    "revision": "eadb8bf750de5df1a60a7552fb4ac781",
-    "url": "./static/media/ic_time2.eadb8bf7.png"
-  },
-  {
-    "revision": "9076cf20c5e226c27cf664f4ac96b0e6",
-    "url": "./static/media/megaphone.9076cf20.svg"
-  },
-  {
-    "revision": "801abaa415648ef8bc6aaccb6d363f11",
-    "url": "./static/media/megaphone2.801abaa4.svg"
-  },
-  {
-    "revision": "352587b0b682f25c5ccf444682904954",
-    "url": "./static/media/podium.352587b0.svg"
-  },
-  {
-    "revision": "fcb888b05c4b1cda059ea89f0d42aa07",
-    "url": "./static/media/poster_date_celebrity.fcb888b0.png"
-  },
-  {
-    "revision": "f47f5e9212e6219d85d9322317bd09b5",
-    "url": "./static/media/rocket.f47f5e92.png"
-  },
-  {
-    "revision": "7027a07aaa2c65530e9430a7477f512f",
-    "url": "./static/media/teddy-bear.7027a07a.png"
-  },
-  {
-    "revision": "e7c5d2855f61d9291d4bd41b3d16aa14",
-    "url": "./static/media/thinking.e7c5d285.svg"
-  },
-  {
-    "revision": "6de6aceab83fdc03319da6c3c5119c17",
-    "url": "./static/media/thumbs-up-sign.6de6acea.png"
+    "revision": "da7365b3b836a5e8be2861951e20c076",
+    "url": "./static/media/story.da7365b3.png"
   }
 ]);
